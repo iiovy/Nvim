@@ -21,6 +21,7 @@
   "match.nvim": { "branch": "master", "commit": "aaba435e1f08cd63e6858e8f742ac9d01091be40" },
   "milli.nvim": { "branch": "main", "commit": "00274623b76a66356e31e1861360b269987a7f64" },
   "mini.nvim": { "branch": "main", "commit": "cbae4fa396bbf9c802b3d2dc2e9c5362e8fb9468" },
+  "namu.nvim": { "branch": "main", "commit": "e7afbdf63a75ace6ccc6202d58a4f6f9ac09db92" },
   "nvim-autopairs": { "branch": "master", "commit": "7b9923abad60b903ece7c52940e1321d39eccc79" },
   "nvim-cmp": { "branch": "main", "commit": "a1d504892f2bc56c2e79b65c6faded2fd21f3eca" },
   "nvim-lspconfig": { "branch": "master", "commit": "229b79051b380377664edc4cbd534930154921a1" },
@@ -35,5 +36,6 @@
   "toggleterm.nvim": { "branch": "main", "commit": "50ea089fc548917cc3cc16b46a8211833b9e3c7c" },
   "trouble.nvim": { "branch": "main", "commit": "bd67efe408d4816e25e8491cc5ad4088e708a69a" },
   "twilight.nvim": { "branch": "main", "commit": "664e752f4a219801265cc3fc18782b457b58c1e1" },
+  "undo-glow.nvim": { "branch": "main", "commit": "ac70916caa2f4e57419bb4c1a2e303cdb7bb57e2" },
   "which-key.nvim": { "branch": "main", "commit": "3aab2147e74890957785941f0c1ad87d0a44c15a" }
 }

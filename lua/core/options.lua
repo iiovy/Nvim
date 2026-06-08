@@ -1,11 +1,3 @@
--- transparency
-vim.api.nvim_set_hl(0, "Normal", { bg = "none" })
-vim.api.nvim_set_hl(0, "NormalFloat", { bg = "none" })
-
--- statusline transparency
-vim.api.nvim_set_hl(0, "StatusLine", { bg = "none" })
-vim.api.nvim_set_hl(0, "StatusLineNC", { bg = "none" })
-
 -- Line Numbers
 vim.opt.number = true
 local numbertoggle = vim.api.nvim_create_augroup("numbertoggle", {})
