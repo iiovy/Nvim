@@ -2,5 +2,6 @@
 
 My own personal setup
 
-![Dashboard](screenshots/dashboard.png)
-![editing](screenshots/editing.png)
+![Dashboard](assets/screenshots/dashboard.png)
+
+ ![editing](assets/screenshots/editing.png)
