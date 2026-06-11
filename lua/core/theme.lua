@@ -13,7 +13,7 @@ function M.load()
   set(0, "Normal", { fg = "#ffffff", bg = NONE })
   set(0, "NormalNC", { fg = "#d0d0d0", bg = NONE })
 
-  set(0, "Comment", { fg = "#4b4b4b", italic = true })
+  set(0, "Comment", { fg = "#8e9091", italic = true })
   set(0, "String", { fg = "#c0c0c0" })
   set(0, "Identifier", { fg = "#d9d9d9" })
   set(0, "Function", { fg = "#e0e0e0" })

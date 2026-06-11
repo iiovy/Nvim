@@ -1,6 +1,7 @@
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
 
 vim.opt.rtp:prepend(lazypath)
+vim.opt.shortmess:append("I") 
 
 require("core.options")
 require("core.keybindings")

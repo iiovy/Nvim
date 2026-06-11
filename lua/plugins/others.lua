@@ -53,7 +53,7 @@ return {
           hl_color = { bg = "#2F4640" },
         },
         yank = {
-          hl_color = { bg = "#7A683A" },
+          hl_color = { bg = "#565c5b" },
         },
         paste = {
           hl_color = { bg = "#325B5B" },

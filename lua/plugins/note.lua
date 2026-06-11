@@ -8,12 +8,11 @@ return {
     local global_note = require("global-note")
 
     global_note.setup({
-      filename = "Notes",
-      directory = vim.fn.stdpath("config"),
-
+      filename = "notes",
+      directory = vim.fn.stdpath("config") .. "/assets",
       window_config = function()
 
-          local width = 45
+          local width = 30
           local height = 15
           local ui = vim.api.nvim_list_uis()[1]
 
